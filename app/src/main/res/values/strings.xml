@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Equipe Alfa</string>
+    <string name="usu_rio">Usuário</string>
+    <string name="logo">Logo</string>
+    <string name="senha">Senha</string>
+    <string name="entrar">Entrar</string>
+    <string name="title_activity_aluno_games">AlunoGames</string>
+    <string name="tab_text_1">Tab 1</string>
+    <string name="tab_text_2">Tab 2</string>
+</resources>
